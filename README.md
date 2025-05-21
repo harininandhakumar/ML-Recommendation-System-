@@ -51,3 +51,8 @@ Clustering techniques to group attractions by themes (e.g., religious, historica
 
 In conclusion, the Review-Based Place Recommendation System offers a practical and scalable solution for exploring similar attractions based solely on review insights, making it a valuable tool in the domain of travel recommendation services.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9cf19a13-6f7d-4f17-acb1-760962c064e1)
+![Image](https://github.com/user-attachments/assets/4d5d933e-9fe6-472e-83f8-207b6c2e5b6c)
+![Image](https://github.com/user-attachments/assets/b90491be-eb0a-42eb-90de-83cf6fefe407)
